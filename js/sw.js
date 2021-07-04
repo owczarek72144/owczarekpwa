@@ -1,6 +1,5 @@
 var cacheName = 'piac-pwa';
 var filesToCache = [
-    '/',
     '/index.html',
     '/style.css',
     '/js/main.js',
