@@ -1,4 +1,5 @@
-var cacheName = 'piac-pwa';var filesToCache = [
+var cacheName = 'piac-pwa';
+var filesToCache = [
     '/',
     '/index.html',
     '/style.css',
@@ -7,7 +8,7 @@ var cacheName = 'piac-pwa';var filesToCache = [
     '/Bootstrap_logopng.svg',
     '/Flasklogo.png',
     '/logoazure.png',
-    '/Python_logo.png'
+    '/Python_logo.png',
 ];
 
 self.addEventListener('install', function(e) {
